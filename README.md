@@ -44,3 +44,8 @@ This app demonstrates how machine learning models can help businesses estimate t
 - Pandas & Numpy – Data processing
 - XGBoost – Regression model
 - Streamlit – Deployment
+
+# Screenshots
+<img width="1702" height="695" alt="Screenshot 2025-12-24 at 10 10 05 PM" src="https://github.com/user-attachments/assets/b466309a-9315-4a01-a2ae-73ff872f6273" />
+
+
